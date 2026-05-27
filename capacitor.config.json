@@ -1,0 +1,9 @@
+{
+  "appId": "com.safepass.tracker",
+  "appName": "Safe Pass Tracker",
+  "webDir": "public",
+  "server": {
+    "url": "http://172.20.10.2:5000",
+    "cleartext": true
+  }
+}
